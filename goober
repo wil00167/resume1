@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" href=""style.css/>
+  </head>
+
+  <body>
+     <div class="mooky"> <h1>AARYN WILSON</h1>     
+       <p>Saint Paul, MN 55108 | (651) 206-6576 | eaglesandsugarmaples@gmail.com</p></div>
+    <div><h4>Education</h4>
+    <h4>Bachelor of Science, Plant Science
+    <br>Graduated May 2016 | Dean’s List | GPA 3.65
+      </h4>
+    <p>University of Minnesota College of Food, Agriculture, and Natural Resource Sciences | St. Paul, MN</p></div>
+    <div><h4>Relevant Experience</h4>
+    <h4>Lab Technician
+      <br>Actalent Sherwin Williams | Minneapolis, MN
+      <br>December 2021 – January 2022</h4>
+      <ul>
+      <li>Perform tests and certifications for assessing the strength and durability of paint applied to various substrates</li>  
+      </ul>
+      <h4>Operations Coordinator
+        <br>East Side Neighborhood Services | MPLS, MN
+        <br>September 2021 – November 2021</h4>
+        <ul>
+          <li>Work on inventory and ordering food for a mobile food shelf that serves seniors</li>
+          <li>Drive 20’ dock truck to senior citizen living facilities</li>
+      </ul>
+      <h4>Tutor
+        <br>MN ReadingCorps | St. Paul, MN
+        <br>November 2020 – May 2021</h4>
+      <ul>
+        <li>Provide support service for elementary reading and math teachers at St. Paul City School</li>
+      </ul>
+      <h4>Environmental Justice Intern
+        <br>Science Museum of Minnesota | St. Paul, MN
+        <br>November 2019 – April 2020</h4>
+      <ul>
+        <li>Create environmental sustainability education curriculum to engage (K-8th grade) youth</li>
+        <li>Design curriculum with a focus on social justice and the way it relates to sustainability</li>
+      </ul>
+      <h4>Compost Educator
+      <br>MN GreenCorps | St. Paul, MN
+        <br>October 2018 – August 2019</h4>
+      <ul>
+        <li>Improve existing organics recycling at Augsburg through community outreach and informal education efforts like PowerPoint presentations and one-to-one meetings</li>
+        <li>Conducted two waste audits with students and staff from the college</li>
+        <li>Collaborate with staff from Brian Coyle Center to deliver environmental education to youth</li>
+      </ul>
+      <h4>Afterschool Farm and Garden Educator 
+        <br>St. Paul City School | St. Paul, MN
+        <br>March 2017 – May 2018</h4>
+      <ul>
+        <li>Provided behavioral supervision and co-led horticultural enrichment curriculum for up to 30 students</li>
+        <li>Created fun playful activities centered on wellness (e.g. making salad dressing and practicing yoga)</li>
+      </ul>
+      <h4>Jr. Lab Technician 
+        <br>University of Minnesota Department of Soil Science | St. Paul, MN
+        <br>December 2016 – September 2017</h4>
+      <ul>
+        <li>Used different experimental designs to manage the growth of wheat, tomatoes, and lettuce from seed to harvest</li>
+        <li>Developed a schedule to ensure plants were watered daily, fertilized as needed, pruned as needed, and grown under optimal light and temperature by myself or other team members working in lab</li>
+        <li>Weighed and measured precise amounts of fertilizers, soil, and plant biomass (fresh and dry weight) to facilitate ongoing research</li>
+      </ul></div>
+    <h1></h1>
+  </body>
+    <div>
+    <aside><h4>Community Engagement, Leadership & Awards</h4>
+      <ul>
+        <li>Volunteer | The Good Acre, July 2020 - October 2020</li>
+        <li>Vice President | Minorities in Agriculture and Natural Resources and Related Sciences, 2015-2016</li>
+        <li>University of Minnesota Markhart Service Learning Scholar 2014-2015</li>
+        <li>Ronald E. McNair Undergraduate Research Scholar 2015</li>
+        <li>Minneapolis Community and Technical College | Earl W. Bowman Leaders of the Future Award</li>
+        <li>Garden Writer’s Association Foundation Award and Next Gen Scholarship</li>
+        </aside>
+      </div>
+</html>
